@@ -39,7 +39,6 @@ To empower students by:
 3. **Student Sign up**
 4. **Form Submission**
 5. **Authentication**
-6. **SMS Notifications**
 
 ---
 
