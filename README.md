@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+FoodEZ – Final Project Submission (CS160 Team 5)
+Submission Link
+GitHub Repo: https://github.com/shakshiHub/cs160_proj
 
-## Getting Started
+Team Members & Roles
+Christopher Morales – Front-end Developer, UI Design
+Guadalupe Ramirez Lara – Back-end Developer, Database Integration
+Smriti Jha – User Authentication, SNS Manager
+Shakshi Sharma – Front-end Developer, SNS Manager
+Minkyoung So – Documentation Lead, SNS Manager
+Vision Statement
+FoodEZe envisions a campus where surplus meals never go to waste and every student has reliable access to food. By seamlessly connecting event organizers with hungry students through real‑time updates and intuitive notifications, we are committed to creating a space where sustainability and collective well‑being go hand in hand.
 
-First, run the development server:
+Our goal is to empower students by sharing resources, to reduce environmental impact, and to build a campus where no plate and no student is left behind.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Project Goal
+To empower students by:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Sharing food resources effectively
+Reducing food waste on campus
+Creating a platform that fosters sustainability and accessibility
+Main Features
+Admin Sign In
+Admin Sign Up
+Student Sign up
+Form Submission
+Authentication
+Folder Descriptions
+Documentation/: Contains project requirements, diagrams, and getting started instructions
+Source_Code/: Full front-end, back-end, and DB files
+Presentation/: Final pitch presentation
+Running the Application (Getting Started)
+Clone the Repo / Download Folder
+Navigate to /Source_Code
+Run backend:
+cd backend
+npm install
+npm start
